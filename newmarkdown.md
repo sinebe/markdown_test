@@ -14,3 +14,11 @@
 | QQQ      | 0.7%       |
 | IWC      | 0.8%       |
 | IWM      | 0.9%       |
+
+```.py
+
+def something:
+  a = 2
+  b= 3 
+  return a
+```
