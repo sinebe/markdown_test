@@ -22,3 +22,13 @@ def something:
   b= 3 
   return a
 ```
+
+
+```.sas
+
+data a;
+set b;
+if z = 10;
+run;
+
+```
